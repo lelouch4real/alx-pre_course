@@ -1,1 +1,1 @@
-This is git project
+This is git project.
